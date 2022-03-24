@@ -25,4 +25,4 @@ This game was developed using javascript math.random that draws numbers randomly
 
 Live version of game:
 This game is hoisted by using Netlify, the live version of the game can be found here,
-https://tender-allen-5c0384.netlify.app/
+https://dice-game-2-players.netlify.app/
